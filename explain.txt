@@ -1,0 +1,1 @@
+body-parser -> 콜백 req.body 메소드에 내용이 적힘
